@@ -9,9 +9,9 @@ For each number in stack B, I calculated its optimal position in stack A, consid
 ```
 Stack A    Stack B
 
-[5]        [4]  -> before 5 (push to A) = 1 Move  
-[11]       [2]   -> before 5  (rotate B, push to A) = 2 Moves  
-[17]       [92]  -> behind 17 (reverse rotate B, push to A, rotate A) = 3 Moves  
+[5]        [4]   -> before 5  (push to A)                              = 1 Move  
+[11]       [2]   -> before 5  (rotate B, push to A)                    = 2 Moves  
+[17]       [92]  -> behind 17 (reverse rotate B, push to A, rotate A)  = 3 Moves  
 ```
 
 This approach combined efficient data manipulation with careful algorithm optimization, ensuring minimal operations while achieving the desired sorted order.
