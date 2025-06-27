@@ -31,8 +31,8 @@ For this project I was given a set of integer values, 2 stacks and a set of inst
 
 ## 2. Project Structure
 
-3.1 [Parsing](#31-parsing)
-3.2 [Algorithm](#32-algorithm)
+3.1 [Parsing](#31-parsing)  
+3.2 [Algorithm](#32-algorithm)  
 
 ## 3. Description of individual steps
 
