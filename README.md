@@ -10,10 +10,11 @@
 ## 1. Project overview
 
 For this project I was given a set of integer values, 2 stacks and a set of instructions to manipulate both stacks. My goal was to write a C program called push_swap that calculates and displays the shortest sequence of Push_swap instructions needed to sort the given integers.  
-I had the following operations at my disposal:
 
-- sa (swap a): Swap the first 2 elements at the top of stack a.
-- sb (swap b): Swap the first 2 elements at the top of stack b.
+### I had the following operations at my disposal:
+
+- *sa* (swap a): Swap the first 2 elements at the top of stack a.
+- *sb* (swap b): Swap the first 2 elements at the top of stack b.
 - ss : sa and sb at the same time.
 - pa (push a): Take the first element at the top of b and put it at the top of a.
 - pb (push b): Take the first element at the top of a and put it at the top of b.
